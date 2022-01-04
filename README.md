@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Catrom2077
 - 👀 I’m interested in AI, gameDev, math, physics, electronics, engineering
 - 🌱 I’m currently learning C#, Java, Python, C++
-- 💞️ I’m looking to collaborate on AlexProd
+- 💞️ I’m looking to collaborate on LT, SH
 - 📫 How to reach me https://t.me/CyberKATROM
 
 <!---
